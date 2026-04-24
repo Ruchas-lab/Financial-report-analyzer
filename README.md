@@ -22,6 +22,8 @@ Input raw numbers from any company's income statement and balance sheet and inst
 
 Each ratio comes with a plain-English interpretation — not just the number, but what it means for the business.
 
+🔗 **[Live Demo → financial-report-analysis.streamlit.app](https://financial-report-analysis.streamlit.app)**
+
 ### 🔄 v0.2 — Financial Report Analyzer (in development)
 Upload any annual report PDF and receive:
 
