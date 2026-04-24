@@ -53,7 +53,7 @@ In 2025–2026, all four Big Four firms — Deloitte (Zora AI), EY, PwC, and KPM
 
 | Component | Status |
 |---|---|
-| Financial ratio calculator | ✅ In development |
+| Financial ratio calculator | ✅ Built and live |
 | Live Streamlit deployment | 🔄 Planned |
 | PDF ingestion & section extraction | 🔄 Planned |
 | Financial metrics extraction | 🔄 Planned |
